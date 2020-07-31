@@ -1,0 +1,14 @@
+{
+    "autoload": {
+
+        "psr-4": {
+            "kymbrik\\": "src/",
+            "kymbrik\\tests\\": "tests/"
+
+
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
